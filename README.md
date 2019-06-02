@@ -2,11 +2,11 @@
 
 ## Demo
 
-![](tod.gif)
+![demo](tod.gif)
 
 ## Firebase
 
-![db](https://jumpshare.com/v/nwdpzSnhVXOqc1rQATwcgi)
+![db](firebase.jpg)
 
 ## Development server
 
