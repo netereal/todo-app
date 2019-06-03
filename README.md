@@ -1,6 +1,10 @@
 # Angular 8 To Do List App with Firebase
 
-## Demo
+## Live demo
+
+[https://netereal.github.io/todo-app/](https://netereal.github.io/todo-app/)
+
+:squirrel:
 
 ![demo](tod.gif)
 
