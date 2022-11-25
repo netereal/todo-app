@@ -2,9 +2,6 @@
 
 ## Live demo
 
-[https://netereal.github.io/todo-app/](https://netereal.github.io/todo-app/)
-
-:squirrel:
 
 ![demo](tod.gif)
 
